@@ -57,9 +57,9 @@ Me encanta la programación y la tecnología, actualmente estoy estudiando y esp
 ---
 
 ## 📚 Otros intereses
--Me gusta mucho leer, tanto novelas, distópicas, fantasticas y de aventuras principalmente, como ensayos, ya sean de economía, desarrollo personal, política y física.
--Los ámbitos que me interesan fuera de la programación son: La economía, la física, el desarrollo personal y la política.
--También suelo escuchar muchos podcast, hablando de los temas ya dichos.
+- Me gusta mucho leer, tanto novelas, distópicas, fantasticas y de aventuras principalmente, como ensayos, ya sean de economía, desarrollo personal, política y física.
+- Los ámbitos que me interesan fuera de la programación son: La economía, la física, el desarrollo personal y la política.
+- También suelo escuchar muchos podcast, hablando de los temas ya dichos.
 
 ---
 
