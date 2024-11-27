@@ -66,7 +66,3 @@ Me encanta la programación y la tecnología, actualmente estoy estudiando y esp
 ## 📫 Contacto
 Estoy abierto a colaborar en proyectos interesantes.
 Puedes encontrarme en mis redes sociales o contactarme directamente por correo electrónico.
-
----
-
-Gracias por visitar mi perfil, ¡espero que encuentres algo interesante aquí! 🚀
