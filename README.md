@@ -29,6 +29,7 @@ Me encanta la programación y la tecnología, actualmente estoy estudiando y esp
 - **HTML y CSS:** Nivel intermedio para diseño web básico.
 - **Python y MongoDB:** Conocimientos básicos.
 - **Git y GitHub:** Uso frecuente para control de versiones y colaboración en proyectos.
+- **Linux y Mac** Conocimiento básico de ambos.
 
 ### Herramientas
 - **IDE favorito:** Eclipse, por su ambiente acogedor y su capacidad para fomentar la productividad.
@@ -45,14 +46,8 @@ Me encanta la programación y la tecnología, actualmente estoy estudiando y esp
 ---
 
 ## 🔭 Actualmente trabajando en
-- **Proyectos académicos:** Desarrollo de aplicaciones utilizando Java, Kotlin y Swift.
+- **Proyectos académicos:** Desarrollo de aplicaciones utilizando Java, Kotlin y Swift. Por ejemplo el TFG.
 - **Aprendizaje continuo:** Profundizando en bases de datos y patrones de diseño.
-
----
-
-## 💡 Intereses futuros
-- Especialización en desarrollo de software y arquitectura de aplicaciones.
-- Exploración de tecnologías como desarrollo móvil, cloud computing y frameworks avanzados.
 
 ---
 
@@ -60,6 +55,7 @@ Me encanta la programación y la tecnología, actualmente estoy estudiando y esp
 - Me gusta mucho leer, tanto novelas, distópicas, fantasticas y de aventuras principalmente, como ensayos, ya sean de economía, desarrollo personal, política y física.
 - Los ámbitos que me interesan fuera de la programación son: La economía, la física, el desarrollo personal y la política.
 - También suelo escuchar muchos podcast, hablando de los temas ya dichos.
+- He subido un par de videos a youtube, ya sean de tutoriales, o enseñando proyectos que he hecho. Conocimiento básico de edición de video.
 
 ---
 
