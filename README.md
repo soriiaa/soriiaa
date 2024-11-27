@@ -6,9 +6,10 @@ Me encanta la programación y la tecnología, actualmente estoy estudiando y esp
 
 ## 🧑‍💻 Sobre mí
 - **Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).**
-- Me encanta programar y resolver problemas, con un enfoque en la creación de soluciones robustas y eficientes.
-- Desde siempre he sentido pasión por aprender cosas nuevas y ampliar mis conocimientos.
+- Me encanta programar y resolver problemas, con un enfoque creativo y eficiente.
+- Soy muy curioso. Desde siempre he sentido pasión por aprender cosas nuevas y ampliar mis conocimientos.
 - Me gusta especialmente la gestión de proyectos y liderar grupos de trabajo.
+- MUY disciplinado.
 
 ---
 
@@ -17,7 +18,6 @@ Me encanta la programación y la tecnología, actualmente estoy estudiando y esp
 - **Java:** Amplia experiencia, incluyendo:
   - Programación orientada a objetos (POO).
   - Manejo de excepciones.
-  - Colecciones y mapas.
   - Interfaces gráficas y arquitectura MVC.
   - Conexión con bases de datos mediante JDBC.
   - Manejo de ficheros.
