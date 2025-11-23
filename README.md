@@ -1,67 +1,50 @@
-# Alejandro Soria Alcaraz - Desarrollador
+# Alejandro Soria Alcaraz — Ingeniero de Software
 
-Me encanta la programación y la tecnología, actualmente estoy estudiando y especializadome en el desarrollo de software. Aquí encontrarás algunos de mis proyectos y colaboraciones.
+Ingeniero de Software, titulado como Técnico en Desarrollo de Aplicaciones Multiplataforma (DAM) y cursando Ingeniería del Software. Apasionado por crear, entender y mejorar sistemas tecnológicos desde la raíz.
 
 ---
 
 ## 🧑‍💻 Sobre mí
-- **Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).**
-- Me encanta programar y resolver problemas, con un enfoque creativo y eficiente.
-- Soy muy curioso. Desde siempre he sentido pasión por aprender cosas nuevas y ampliar mis conocimientos.
-- Me gusta especialmente la gestión de proyectos y liderar grupos de trabajo.
-- MUY disciplinado.
+- Profesional con una visión global del desarrollo, capaz de gestionar proyectos, coordinar equipos y diseñar soluciones con criterio.
+- Me mueve la creatividad, la disciplina, la capacidad de conectar ideas y la curiosidad interminable por aprender cómo funciona todo.
+- Cuento con lo que la tecnología no puede reemplazar: pensamiento crítico, liderazgo, análisis, intuición y enfoque humano.
 
 ---
 
 ## 💻 Habilidades Técnicas
 ### Lenguajes y Tecnologías
-- **Java:** Amplia experiencia, incluyendo:
-  - Programación orientada a objetos (POO).
-  - Manejo de excepciones.
-  - Interfaces gráficas y arquitectura MVC.
-  - Conexión con bases de datos mediante JDBC.
-  - Manejo de ficheros.
-  - Programación de hilos y procesos.
-  - Sockets
-- **Kotlin:** Aprendiendo activamente como parte de mi formación.
-- **Swift** Estudiando actualmente el lenguaje.
-- **SQL:** Conocimientos sólidos en manejo de bases de datos relacionales.
-- **HTML y CSS:** Nivel intermedio para diseño web básico.
-- **Python y MongoDB:** Conocimientos básicos.
-- **Git y GitHub:** Uso frecuente para control de versiones y colaboración en proyectos.
-- **Linux y Mac** Conocimiento básico de ambos.
-
+- Java (nivel avanzado): SpringBoot, JWT, Hibernate/JPA, POO, excepciones, MVC, JDBC, hilos, procesos, sockets y gestión de ficheros.
+- Kotlin (nivel alto): Desarrollo de aplicaciones.
+- C: Conocimiento intermedio.
+- Swift: En aprendizaje continuo.
+- SQL: Buen dominio en bases de datos relacionales.
+- HTML/CSS: Nivel intermedio.
+- Python y MongoDB: Buen nivel para proyectos pequeños y medianos.
 ### Herramientas
-- **IDE favorito:** Eclipse, por su ambiente acogedor y su capacidad para fomentar la productividad.
-- **Otros IDEs:** Familiaridad con Visual Studio y otros entornos de desarrollo.
+- Git y GitHub: Uso diario con fluidez.
+- Linux: Nivel medio.
+- Maven/Gradle.
+- IDEs: Eclipse, VSC, Intellij.
 
----
+## 🌟 Puntos fuertes
+- Visión amplia para entender proyectos completos.
+- Resolución de problemas con lógica y creatividad.
+- Adaptabilidad y aprendizaje rápido.
+- Pensamiento estratégico y capacidad de organización.
+- Curiosidad profunda y constante por aprender.
 
-## 🌟 Mis puntos fuertes
-- Resolución de problemas complejos con un enfoque lógico y creativo.
-- Trabajo tanto en equipo como de forma individual, pudiendo adaptarme perfectamente.
-- Adaptabilidad a nuevos lenguajes y tecnologías.
-- Facilidad de colaboración.
+## 🔭 Ahora mismo
+- Centrado principalmente en mi carrera de Ingeniería del Software.
+- Desarrollando proyectos personales para seguir ampliando habilidades y perspectivas.
 
----
-
-## 🔭 Actualmente trabajando en
-- **Proyectos académicos:** Desarrollo de aplicaciones utilizando Java, Kotlin y Swift. Por ejemplo el TFG.
-- **Aprendizaje continuo:** Profundizando en bases de datos y patrones de diseño.
-
----
-
-## 📚 Otros intereses
-- Me gusta mucho leer, tanto novelas, distópicas, fantasticas y de aventuras principalmente, como ensayos, ya sean de economía, desarrollo personal, política y física.
-- Los ámbitos que me interesan fuera de la programación son: La economía, la física, el desarrollo personal y la política.
-- También suelo escuchar muchos podcast, hablando de los temas ya dichos.
-- He subido un par de videos a youtube, ya sean de tutoriales, o enseñando proyectos que he hecho. Conocimiento básico de edición de video.
-
----
+## 📚 Intereses
+Me apasionan las matemáticas, la física (especialmente astrofísica y cuántica), la economía, la política, el desarrollo personal y todo lo que tenga que ver con tecnología.
+Sigo muchos podcasts y leo tanto novelas (distopías, fantasía, aventuras) como ensayos de economía, ciencia y otros temas.
+Además, tengo un par de vídeos en YouTube mostrando proyectos y tutoriales, con manejo básico de edición.
 
 ## 📫 Contacto
-Estoy abierto a colaborar en proyectos interesantes.
-Puedes encontrarme en mis redes sociales o contactarme directamente por correo electrónico.
+Abierto a colaborar en proyectos con ambición y enfoque profesional.
+Email: alex.soriaalcaraz@gmail.com
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soriiaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
