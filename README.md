@@ -1,4 +1,4 @@
-# Alejandro Soria Alcaraz — Ingeniero de Software
+# Alejandro Soria — Ingeniero de Software
 
 Ingeniero de Software, titulado como Técnico en Desarrollo de Aplicaciones Multiplataforma (DAM) y cursando Ingeniería del Software. Apasionado por diseñar y optimizar sistemas tecnológicos.
 
