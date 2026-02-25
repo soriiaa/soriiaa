@@ -13,9 +13,9 @@ Ingeniero de Software, titulado como Técnico en Desarrollo de Aplicaciones Mult
 
 ## 💻 Habilidades Técnicas
 ### Lenguajes y Tecnologías
-- Java(Alto), Kotlin(Alto), C, Swift, SQL(Alto), HTML/CSS, Python y MongoDB.
+- Java(Alto), Kotlin(Alto), C, C++, Swift, SQL(Alto), HTML/CSS, Python y MongoDB.
 ### Herramientas
-- Git y GitHub, Linux, Maven/Gradle, IDEs: Eclipse, VSC, Intellij.
+- Git y GitHub, Linux, Maven/Gradle, IDEs: Eclipse, VSC, Intellij, Notepad++.
 
 ## 🌟 Puntos fuertes
 - Visión amplia para entender proyectos completos.
