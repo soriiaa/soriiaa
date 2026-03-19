@@ -1,6 +1,6 @@
 # Hey, I'm Alejandro Soria 👋
 
-Software Engineer based in Madrid 🇪🇸 — studying Computer Science at U-Tad while building things that actually work.
+Software Engineer based in Madrid — studying Computer Science at U-Tad while building things that actually work.
 
 I'm interested in the full stack: from low-level systems and architecture design to mobile apps and applied AI. I like understanding how things work under the hood.
 
