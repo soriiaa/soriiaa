@@ -1,43 +1,63 @@
-# Alejandro Soria — Ingeniero de Software
+# Hey, I'm Alejandro Soria 👋
 
-Ingeniero de Software, titulado como Técnico en Desarrollo de Aplicaciones Multiplataforma (DAM) y cursando Ingeniería del Software. Apasionado por diseñar y optimizar sistemas tecnológicos.
+Software Engineer based in Madrid 🇪🇸 — studying Computer Science at U-Tad while building things that actually work.
 
----
-
-## 🧑‍💻 Sobre mí
-- Profesional con una visión global del desarrollo, capaz de gestionar proyectos, coordinar equipos y diseñar soluciones con criterio.
-- Me mueve la creatividad, la disciplina y la curiosidad. Disfruto conectar ideas y explorar cómo funciona todo.
-- Cuento con lo que la tecnología no puede reemplazar: pensamiento crítico, liderazgo, análisis, intuición y enfoque humano.
+I'm interested in the full stack: from low-level systems and architecture design to mobile apps and applied AI. I like understanding how things work under the hood.
 
 ---
 
-## 💻 Habilidades Técnicas
-### Lenguajes y Tecnologías
-- Java(Alto), Kotlin(Alto), C, C++, Swift, SQL(Alto), HTML/CSS, Python y MongoDB.
-### Herramientas
-- Git y GitHub, Linux, Maven/Gradle, IDEs: Eclipse, VSC, Intellij, Notepad++.
+## 🛠 Tech Stack
 
-## 🌟 Puntos fuertes
-- Visión amplia para entender proyectos completos.
-- Resolución de problemas con lógica y creatividad.
-- Adaptabilidad y aprendizaje rápido.
-- Pensamiento estratégico y capacidad de organización.
-- Curiosidad profunda y constante por aprender.
+**Languages**
+`Kotlin` `Java` `C++` `Python` `C` `Swift` `SQL`
 
-## 🔭 Ahora mismo
-- Centrado principalmente en mi carrera de Ingeniería del Software.
-- Desarrollando proyectos personales para seguir ampliando habilidades y perspectivas.
+**Mobile & Backend**
+`Android SDK` `MVVM` `REST APIs` `MongoDB` `Maven` `Gradle`
 
-## 📚 Intereses
-Me apasionan las matemáticas, la física (especialmente astrofísica y cuántica), la economía, la política, el desarrollo personal y todo lo que tenga que ver con tecnología.
-Sigo muchos podcasts y leo tanto novelas (distopías, fantasía, aventuras) como ensayos de economía, ciencia y otros temas.
-Además, tengo un par de vídeos en YouTube mostrando proyectos y tutoriales, con manejo básico de edición.
+**Tools**
+`Git` `Linux` `IntelliJ` `VS Code`
 
-## 📫 Contacto
-Abierto a colaborar en proyectos con ambición y enfoque profesional.
-Email: alex.soriaalcaraz@gmail.com
-Linkedin: https://www.linkedin.com/in/alejandrosoriaalcaraz/
+---
+
+## 🚀 Featured Projects
+
+### [📱 Investment Simulator — Android App](https://github.com/soriiaa/AplicacionAndroidTFG)
+Final degree project. Native Android app built in Kotlin with MVVM architecture for simulating investment portfolios.
+`Kotlin` `Android` `MVVM` `REST API`
+
+### [⚙️ Binary Adder in Minecraft](https://github.com/soriiaa/Calculadora-Minecraft-Sumador-Bits)
+Fully functional binary adder built from scratch using logic gates in Minecraft. Adds up to 2 bytes.
+Demonstrates understanding of digital logic: AND, OR, XOR gates and carry propagation.
+`Digital Logic` `Computer Architecture`
+
+### [☕ BookShare — Integrator Project](https://github.com/soriiaa/ProyectoBookShare)
+Full-stack book sharing platform built during first year of DAM.
+`Java` `SQL`
+
+### [🖥️ Challenge App Server](https://github.com/soriiaa/ServidorAplicacionRetos)
+Backend server for a mobile challenges application.
+`Java` `REST API`
+
+---
+
+## 📈 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soriiaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soriiaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
+
+---
+
+## 🌱 Currently
+
+- 📚 Studying Software Engineering (years 1 & 2 simultaneously) at U-Tad Madrid
+- 🔨 Building personal projects to deepen skills in backend systems and applied AI
+- 🎯 Working towards a role at a top-tier tech company
+
+---
+
+## 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrosoriaalcaraz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alex.soriaalcaraz@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@sorxx_)
