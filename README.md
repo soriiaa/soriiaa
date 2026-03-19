@@ -34,10 +34,6 @@ Demonstrates understanding of digital logic: AND, OR, XOR gates and carry propag
 Full-stack book sharing platform built during first year of DAM.
 `Java` `SQL`
 
-### [🖥️ Challenge App Server](https://github.com/soriiaa/ServidorAplicacionRetos)
-Backend server for a mobile challenges application.
-`Java` `REST API`
-
 ---
 
 ## 📈 Stats
