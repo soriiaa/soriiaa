@@ -30,6 +30,10 @@ Fully functional binary adder built from scratch using logic gates in Minecraft.
 Demonstrates understanding of digital logic: AND, OR, XOR gates and carry propagation.
 `Digital Logic` `Computer Architecture`
 
+### [🎮 Mazmorras — Turn-Based RPG Game](https://github.com/soriiaa/VideojuegoMazmorras)
+2D turn-based RPG developed in Java 21 + JavaFX as a Software Design course project. Features tilemap-based exploration, combat systems, inventory management and multiple software design patterns implementation.
+`Java` `JavaFX` `Maven` `Design Patterns` `FXML` `CSS`
+
 ### [☕ BookShare — Integrator Project](https://github.com/soriiaa/ProyectoBookShare)
 Full-stack book sharing platform built during first year of DAM.
 `Java` `SQL`
