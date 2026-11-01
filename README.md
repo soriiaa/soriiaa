@@ -1,38 +1,37 @@
 # Hey, I'm Alejandro Soria 👋
 
-Software Engineer based in Madrid — studying Software Engineering at U-Tad while building things that actually work.
+Double Degree Student in **Computational Mathematics & Software Engineering** @ U-tad | Ex-DAM (9.55/10 HND)
 
-I'm interested in the full stack: from low-level systems and architecture design to mobile apps and applied AI. I like understanding how things work under the hood.
+I bridge the gap between abstract mathematical rigor and practical software engineering — from algorithmic optimization and Discrete Logic (Honors, 9.78/10) to containerized backend architectures and NoSQL databases. I like understanding how things work under the hood.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
-`Kotlin` `Java` `C++` `Python` `C` `Swift` `SQL`
+**Languages & Math Core**
+`Python` `C++` `Java` `C` `Kotlin` `SQL` `Discrete Logic` `Boolean Algebra` `Calculus`
 
-**Mobile & Backend**
-`Android SDK` `MVVM` `REST APIs` `MongoDB` `Maven` `Gradle`
+**Backend, Data & Infrastructure**
+`MongoDB / PyMongo` `Docker` `REST APIs` `Linux` `Git` `MVVM`
 
-**Tools**
-`Git` `Linux` `IntelliJ` `VS Code`
+**Developer Tools**
+`VS Code` `IntelliJ` `CLon` `PyCharm` `Bash`
 
 ---
 
 ## 🚀 Featured Projects
 
-### [📱 Investment Simulator — Android App](https://github.com/soriiaa/AplicacionAndroidTFG)
-Final degree project. Native Android app built in Kotlin with MVVM architecture for simulating investment portfolios.
-`Kotlin` `Android` `MVVM` `REST API`
+### [⚙️ 2-Byte Binary Adder in Minecraft](https://github.com/soriiaa/Calculadora-Minecraft-Sumador-Bits)
+Fully functional binary adder built from scratch using logic gates in Minecraft. Derived Boolean expressions from truth tables and Karnaugh maps to implement XOR, AND, and OR gates in redstone. Demonstrates fundamental CPU architecture principles.
+`Digital Logic` `Computer Architecture` `Boolean Algebra`
 
-### [⚙️ Binary Adder in Minecraft](https://github.com/soriiaa/Calculadora-Minecraft-Sumador-Bits)
-Fully functional binary adder built from scratch using logic gates in Minecraft. Adds up to 2 bytes.
-Demonstrates understanding of digital logic: AND, OR, XOR gates and carry propagation.
-`Digital Logic` `Computer Architecture`
+### [📱 Investment Simulator — Android App](https://github.com/soriiaa/AplicacionAndroidTFG)
+Final degree project for DAM (9.55/10). Native Android app built in Kotlin with MVVM architecture, Jetpack Compose, and Hilt for simulating investment portfolios with real-time APIs (Finnhub, Polygon).
+`Kotlin` `Android SDK` `MVVM` `REST API` `Hilt`
 
 ### [🎮 Mazmorras — Turn-Based RPG Game](https://github.com/soriiaa/VideojuegoMazmorras)
-2D turn-based RPG developed in Java 21 + JavaFX as a Software Design course project. Features tilemap-based exploration, combat systems, inventory management and multiple software design patterns implementation.
-`Java` `JavaFX` `Maven` `Design Patterns` `FXML` `CSS`
+2D turn-based RPG developed in Java 21 + JavaFX as a Software Design course project. Features tilemap-based exploration, combat systems, inventory management, and OOP software design patterns.
+`Java` `JavaFX` `Maven` `Design Patterns`
 
 ### [☕ BookShare — Integrator Project](https://github.com/soriiaa/ProyectoBookShare)
 Full-stack book sharing platform built during first year of DAM.
@@ -43,16 +42,16 @@ Full-stack book sharing platform built during first year of DAM.
 ## 📈 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soriiaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soriiaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 ---
 
 ## 🌱 Currently
 
-- 📚 Studying Software Engineering (years 1 & 2 simultaneously) at U-Tad Madrid
-- 🔨 Building personal projects to deepen skills in backend systems and applied AI
-- 🎯 Working towards a role at a top-tier tech company
+- 📚 **Accelerating Double Degree (Years 1–3 simultaneously)** in Computational Mathematics & Software Engineering at U-tad
+- 🗄️ **Data & Backend:** Building MongoDB 8 aggregation pipelines and containerized Python architectures (Docker, PyMongo)
+- 🎯 **Goal:** Tackling complex computational challenges, algorithmic optimization, and backend engineering at scale
 
 ---
 
